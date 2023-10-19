@@ -1,0 +1,14 @@
+C:\Users\fanto\Desktop\Новая папка\7\bin\Debug\net6.0\7.exe
+C:\Users\fanto\Desktop\Новая папка\7\bin\Debug\net6.0\7.deps.json
+C:\Users\fanto\Desktop\Новая папка\7\bin\Debug\net6.0\7.runtimeconfig.json
+C:\Users\fanto\Desktop\Новая папка\7\bin\Debug\net6.0\7.dll
+C:\Users\fanto\Desktop\Новая папка\7\bin\Debug\net6.0\7.pdb
+C:\Users\fanto\Desktop\Новая папка\7\obj\Debug\net6.0\7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanto\Desktop\Новая папка\7\obj\Debug\net6.0\7.AssemblyInfoInputs.cache
+C:\Users\fanto\Desktop\Новая папка\7\obj\Debug\net6.0\7.AssemblyInfo.cs
+C:\Users\fanto\Desktop\Новая папка\7\obj\Debug\net6.0\7.csproj.CoreCompileInputs.cache
+C:\Users\fanto\Desktop\Новая папка\7\obj\Debug\net6.0\7.dll
+C:\Users\fanto\Desktop\Новая папка\7\obj\Debug\net6.0\refint\7.dll
+C:\Users\fanto\Desktop\Новая папка\7\obj\Debug\net6.0\7.pdb
+C:\Users\fanto\Desktop\Новая папка\7\obj\Debug\net6.0\7.genruntimeconfig.cache
+C:\Users\fanto\Desktop\Новая папка\7\obj\Debug\net6.0\ref\7.dll
