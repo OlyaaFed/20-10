@@ -1,0 +1,14 @@
+C:\Users\fanto\Desktop\Новая папка\1b\bin\Debug\net6.0\1b.exe
+C:\Users\fanto\Desktop\Новая папка\1b\bin\Debug\net6.0\1b.deps.json
+C:\Users\fanto\Desktop\Новая папка\1b\bin\Debug\net6.0\1b.runtimeconfig.json
+C:\Users\fanto\Desktop\Новая папка\1b\bin\Debug\net6.0\1b.dll
+C:\Users\fanto\Desktop\Новая папка\1b\bin\Debug\net6.0\1b.pdb
+C:\Users\fanto\Desktop\Новая папка\1b\obj\Debug\net6.0\1b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanto\Desktop\Новая папка\1b\obj\Debug\net6.0\1b.AssemblyInfoInputs.cache
+C:\Users\fanto\Desktop\Новая папка\1b\obj\Debug\net6.0\1b.AssemblyInfo.cs
+C:\Users\fanto\Desktop\Новая папка\1b\obj\Debug\net6.0\1b.csproj.CoreCompileInputs.cache
+C:\Users\fanto\Desktop\Новая папка\1b\obj\Debug\net6.0\1b.dll
+C:\Users\fanto\Desktop\Новая папка\1b\obj\Debug\net6.0\refint\1b.dll
+C:\Users\fanto\Desktop\Новая папка\1b\obj\Debug\net6.0\1b.pdb
+C:\Users\fanto\Desktop\Новая папка\1b\obj\Debug\net6.0\1b.genruntimeconfig.cache
+C:\Users\fanto\Desktop\Новая папка\1b\obj\Debug\net6.0\ref\1b.dll
